@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:54:55Z",
+  "generated_at": "2026-11-09T17:16:11Z",
   "source": "GitHub REST API + GitLab REST API (pre-computed)",
   "repos": {
     "github.com/absint/compcert": {
@@ -7,19 +7,19 @@
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/AbsInt/CompCert",
-      "stars": 2268,
-      "forks": 268,
+      "stars": 2274,
+      "forks": 270,
       "watchers": 62,
       "open_issues": 41,
-      "commits": 3396,
+      "commits": 3400,
       "contributors": 56,
       "language": "Rocq Prover",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "master",
-      "pushed_at": "2026-10-28T14:48:46Z",
+      "pushed_at": "2026-11-06T15:31:04Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:00Z",
-      "etag": "\"9e12a72b464edb89035c356b0ba7e44a300af075ce552f70ec355bc3e187c5c1\""
+      "fetched_at": "2026-11-09T17:15:13Z",
+      "etag": "\"759e510801b6e04fe1379c01c6d6f32aecd2e61e2ed4bf1e964393730cb52c0c\""
     },
     "github.com/alex2kameboss/ma-riscv-gnu-toolchain": {
       "repo": "github.com/alex2kameboss/MA-riscv-gnu-toolchain",
@@ -37,8 +37,8 @@
       "default_branch": "master",
       "pushed_at": "2026-10-20T11:48:55Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:42Z",
-      "etag": "\"cad3e399c8275fe8a8b2d91444f10a038dad1f260779d69e4651b3d0e3121931\""
+      "fetched_at": "2026-11-09T17:13:50Z",
+      "etag": "\"e42e7a70cb603daf2aa4d1193e8979a2eaf6256bf852ad8b274fd72526bc768e\""
     },
     "github.com/alex2kameboss/matrixaccelerator": {
       "repo": "github.com/alex2kameboss/MatrixAccelerator",
@@ -56,8 +56,8 @@
       "default_branch": "master",
       "pushed_at": "2026-10-20T11:18:35Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:17Z",
-      "etag": "\"633bbb917fad70c37ce903fc0674e1986938ac09dd3490ae612c97b730b9e489\""
+      "fetched_at": "2026-11-09T17:13:23Z",
+      "etag": "\"324fe409cf31c4fa6285b311771cf7f01c359e2d0cff750eb286c80d6611429e\""
     },
     "github.com/antmicro/kenning": {
       "repo": "github.com/antmicro/kenning",
@@ -65,18 +65,18 @@
       "host": "github.com",
       "html_url": "https://github.com/antmicro/kenning",
       "stars": 149,
-      "forks": 14,
+      "forks": 15,
       "watchers": 11,
       "open_issues": 0,
-      "commits": 4878,
+      "commits": 4900,
       "contributors": 35,
       "language": "Python",
       "license_spdx_id": "Apache-2.0",
       "default_branch": "main",
-      "pushed_at": "2026-10-29T15:47:58Z",
+      "pushed_at": "2026-11-09T13:52:42Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:21Z",
-      "etag": "\"963b4c87698860a96588ea4026e4ce12ad33e9fa79c57c51483b42fd051305a4\""
+      "fetched_at": "2026-11-09T17:15:36Z",
+      "etag": "\"4eaae6e5590da130c4728e9bb7e2b7075b6327010baf2e8fbbd3c14d87b4187d\""
     },
     "github.com/boschresearch/sunrise.demonstrator": {
       "repo": "github.com/boschresearch/sunrise.demonstrator",
@@ -94,8 +94,8 @@
       "default_branch": "master",
       "pushed_at": "2026-06-01T14:45:35Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:48Z",
-      "etag": "\"754bde55157fb97f291124188afabfcc2317a8822716ff205dba64acb3217b47\""
+      "fetched_at": "2026-11-09T17:16:04Z",
+      "etag": "\"17f3e891472f6c350d6ef2a6811a86b7f83f835daa1c4aa76fbb14ea7bbca667\""
     },
     "github.com/bsc-loca/pqc-crystals-hls-accelerators": {
       "repo": "github.com/bsc-loca/PQC-Crystals-HLS-Accelerators",
@@ -113,8 +113,8 @@
       "default_branch": "main",
       "pushed_at": "2025-07-16T08:28:25Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:19Z",
-      "etag": "\"66bd0f29d36f4aa4fe8fde64264386ad6351d125fee27d6b07d215330762e88f\""
+      "fetched_at": "2026-11-09T17:13:25Z",
+      "etag": "\"ae10cc3f8d443dbaeca0ffede68714549b137294d28dd3f45e118dc58eb4d6df\""
     },
     "github.com/bsc-loca/safesu": {
       "repo": "github.com/bsc-loca/SafeSU",
@@ -132,8 +132,8 @@
       "default_branch": "main",
       "pushed_at": "2026-09-14T08:26:06Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:09Z",
-      "etag": "\"854022f84506f368f207a3432e063c40d9082b7e1ebace6161ee93e512a3d178\""
+      "fetched_at": "2026-11-09T17:13:13Z",
+      "etag": "\"274332ab37268d1ccad5679a68311dee6ab28826d90dcf1fd7de14654faf099c\""
     },
     "github.com/bsc-loca/safeti": {
       "repo": "github.com/bsc-loca/SafeTI",
@@ -151,8 +151,8 @@
       "default_branch": "main",
       "pushed_at": "2026-03-20T13:44:18Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:26Z",
-      "etag": "\"65ab514275f97fcdd1d02f55773ce95d9c93b05318648ead24b5d4286884940f\""
+      "fetched_at": "2026-11-09T17:13:02Z",
+      "etag": "\"e9343c3db092253890d85537b4b8163d41960afcf3858641e8fa05933e5ff72a\""
     },
     "github.com/cea-list/fault-resistant-partitioning": {
       "repo": "github.com/CEA-LIST/Fault-Resistant-Partitioning",
@@ -170,8 +170,8 @@
       "default_branch": "master",
       "pushed_at": "2024-08-23T02:00:31Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:52Z",
-      "etag": "\"96cd681ff6461eabe2b2255f7328f9fffc6603e39364dbd99b89b9a40ce83d3d\""
+      "fetched_at": "2026-11-09T17:16:08Z",
+      "etag": "\"81826c57692a3689e3b8039a1101aeb647eefc08a049605949ab9ad3f6822506\""
     },
     "github.com/cea-list/uarchifi": {
       "repo": "github.com/CEA-LIST/uArchiFI",
@@ -189,8 +189,8 @@
       "default_branch": "main",
       "pushed_at": "2026-07-21T14:07:30Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:50Z",
-      "etag": "\"cdfe1b9a6ee4370dc3d12b5b6a8a4a20ad86bd394970079277b0495be8e35c22\""
+      "fetched_at": "2026-11-09T17:16:06Z",
+      "etag": "\"c7fb528c72d17c4e033c8e215adaa6f7459c4b573cf954cacf66f324ae11ec96\""
     },
     "github.com/cea-list/vxp_binutils": {
       "repo": "github.com/CEA-LIST/vxp_binutils",
@@ -208,8 +208,8 @@
       "default_branch": "master",
       "pushed_at": "2024-12-03T12:26:48Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:57Z",
-      "etag": "\"6a079218ee7d89bec08380909835a4b5cbfd2cb360f576e157518ed30313b6e9\""
+      "fetched_at": "2026-11-09T17:15:10Z",
+      "etag": "\"aa1c1afdb98e27ea32b9525a5b9db07bf199e9dafce27b0f23e9785e5f9b92f2\""
     },
     "github.com/cea-list/vxp_devkit": {
       "repo": "github.com/CEA-LIST/vxp_devkit",
@@ -227,8 +227,8 @@
       "default_branch": "master",
       "pushed_at": "2026-09-10T06:13:45Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:02Z",
-      "etag": "\"a3e444cdd31231bedadb936e8939108aca50b105dc49724e18960eb3981831b7\""
+      "fetched_at": "2026-11-09T17:15:15Z",
+      "etag": "\"813d89065dd10dfc43ace16f2356a8cbfa7c721211cdaf229eaa9712630845bd\""
     },
     "github.com/cpc/openasip": {
       "repo": "github.com/cpc/openasip",
@@ -246,8 +246,8 @@
       "default_branch": "main",
       "pushed_at": "2026-10-28T07:35:20Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:46Z",
-      "etag": "\"3070cd88b5de072293fad2903c43cc93f735ca2661dc49329b4dc8e1229361e7\""
+      "fetched_at": "2026-11-09T17:16:02Z",
+      "etag": "\"f62e2b8cfc89248e2304e69d1cf80728772c293ba90bb4eda2b01d9cc628aa4c\""
     },
     "github.com/edge-group-polito/keccak": {
       "repo": "github.com/edge-group-polito/keccak",
@@ -265,8 +265,8 @@
       "default_branch": "main",
       "pushed_at": "2026-06-10T08:24:44Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:37Z",
-      "etag": "\"ebcb653acafd3c5b7119c4650e146aaa8b9c3cefc05e6061f756b2f851e65345\""
+      "fetched_at": "2026-11-09T17:14:49Z",
+      "etag": "\"403c0a1c97fadfa7dac7264b2efc39c1fc7b47d5b55ced4af1d865d1f6916063\""
     },
     "github.com/edge-group-polito/pca": {
       "repo": "github.com/edge-group-polito/PCA",
@@ -284,8 +284,8 @@
       "default_branch": "main",
       "pushed_at": "2026-09-15T11:47:00Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:15Z",
-      "etag": "\"66a7f59e6eb4fefc4cac8050d75c4ae8e6c537d7f31076c17fadfbbab6f29133\""
+      "fetched_at": "2026-11-09T17:13:21Z",
+      "etag": "\"e59420df5dff979e8cbbc1f23a0eee4819761629eafb91f01b3e6363d4af5e3e\""
     },
     "github.com/eeeslab/corev-binutils-gdb": {
       "repo": "github.com/EEESlab/corev-binutils-gdb",
@@ -303,8 +303,8 @@
       "default_branch": "development",
       "pushed_at": "2023-11-17T11:00:25Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:55Z",
-      "etag": "\"180a7cc85c366bb4a1a413a23a37d653541eaecfb0990d3ccff414f254be58c1\""
+      "fetched_at": "2026-11-09T17:15:08Z",
+      "etag": "\"f1be705bf37ec00b843db08349981ab4cbc738352a809530814d45b36cc8f107\""
     },
     "github.com/eeeslab/corev-gcc": {
       "repo": "github.com/EEESlab/corev-gcc",
@@ -322,8 +322,8 @@
       "default_branch": "development",
       "pushed_at": "2023-11-20T17:00:09Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:53Z",
-      "etag": "\"7692793735c40b3a0657a21593771791c72a1c4be79e8d4aecaed6bc888bc461\""
+      "fetched_at": "2026-11-09T17:15:06Z",
+      "etag": "\"5634a352cc54497079ae72dc8f4c90540b5c0ff504780187b043dacc279dcf11\""
     },
     "github.com/eeeslab/gvsoc": {
       "repo": "github.com/EEESlab/gvsoc",
@@ -341,8 +341,8 @@
       "default_branch": "main",
       "pushed_at": "2023-11-17T13:48:13Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:40Z",
-      "etag": "\"10b2ee60f69efa3bc67a161e3d3929e22c626a8dd19bf452e4866913789028b3\""
+      "fetched_at": "2026-11-09T17:15:56Z",
+      "etag": "\"94523b0975b40ddb11cc9989b3a10f30acb71fdfe56285359ad4b7dad2231036\""
     },
     "github.com/eml-eda/chessy": {
       "repo": "github.com/eml-eda/chessy",
@@ -360,8 +360,8 @@
       "default_branch": "main",
       "pushed_at": "2025-09-08T22:29:11Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:44Z",
-      "etag": "\"5a2ecdba3b1ebc5ba49c0607cd07902a0433b38035194801ccd1c00ae350c6d2\""
+      "fetched_at": "2026-11-09T17:13:53Z",
+      "etag": "\"a463a4a8904554a337c00e0e554d083f1df9f354a8eecfc2434ce6df1268bb40\""
     },
     "github.com/eml-eda/depthwise-separable-fusion": {
       "repo": "github.com/eml-eda/depthwise-separable-fusion",
@@ -379,8 +379,8 @@
       "default_branch": "master",
       "pushed_at": "2025-05-28T09:55:09Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:36Z",
-      "etag": "\"815fb78f8568d8a9034430e17110a0479873e01f254fe3a9506f11ad6fc44bb9\""
+      "fetched_at": "2026-11-09T17:13:42Z",
+      "etag": "\"e4840ce7c7df44ff84667efec4eef24dca2ed9df8f1be613c8437f950b6d505f\""
     },
     "github.com/eml-eda/match": {
       "repo": "github.com/eml-eda/match",
@@ -398,8 +398,8 @@
       "default_branch": "main",
       "pushed_at": "2026-10-12T13:37:47Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:19Z",
-      "etag": "\"af1ad4db89550a36fb53af3db41ba4eba6fd485999516473d1444da31197d362\""
+      "fetched_at": "2026-11-09T17:15:33Z",
+      "etag": "\"61430ef102aaf1fc833c87d9ff4e612d842a2c1074239888b603b6d522694a44\""
     },
     "github.com/eml-eda/messy": {
       "repo": "github.com/eml-eda/messy",
@@ -410,15 +410,15 @@
       "forks": 2,
       "watchers": 3,
       "open_issues": 6,
-      "commits": 173,
+      "commits": 174,
       "contributors": 7,
       "language": "C++",
       "license_spdx_id": "Apache-2.0",
       "default_branch": "main",
-      "pushed_at": "2025-09-08T22:28:17Z",
+      "pushed_at": "2026-11-03T16:44:22Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:42Z",
-      "etag": "\"78debb636986358cb60e18c8850ab9dfe9a86bb1a3a0992c71950064f3ab4be7\""
+      "fetched_at": "2026-11-09T17:15:58Z",
+      "etag": "\"d9c4e36005e9d3b52dec219884e46620fc5300f1d77c98a276be10959a3b3d37\""
     },
     "github.com/eml-eda/plinio": {
       "repo": "github.com/eml-eda/plinio",
@@ -436,8 +436,8 @@
       "default_branch": "main",
       "pushed_at": "2026-05-08T08:24:33Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:32Z",
-      "etag": "\"60dc6fcc512d1d0e9bc58b99a1d65b83e1c4401b784c4fce781fa98ea5a20d01\""
+      "fetched_at": "2026-11-09T17:13:38Z",
+      "etag": "\"6a6be31036cee69559bca371a8d34ce1fa686e3057fb63e319ff1d7610db55b3\""
     },
     "github.com/eml-eda/pulp-nn-sparse": {
       "repo": "github.com/eml-eda/pulp-nn-sparse",
@@ -455,8 +455,8 @@
       "default_branch": "master",
       "pushed_at": "2025-02-12T10:47:56Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:30Z",
-      "etag": "\"30e72bd745c794d6c733d844ed463392ecbe61cfffef4adba457c0c3c34aa0b2\""
+      "fetched_at": "2026-11-09T17:13:36Z",
+      "etag": "\"7cda4a5474bfcf2e002b2ca7b37474a9290fd5029def96d0100c834bf33f1993\""
     },
     "github.com/eml-eda/riscv-nn": {
       "repo": "github.com/eml-eda/riscv-nn",
@@ -474,8 +474,8 @@
       "default_branch": "main",
       "pushed_at": "2023-10-30T16:21:35Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:13Z",
-      "etag": "\"4a78782ef1a516d73380b89c702f19d72d712b2b73301ade18a087137cf9252c\""
+      "fetched_at": "2026-11-09T17:15:27Z",
+      "etag": "\"42678a5b0844f6788763e42aa3d823805e9f72cf3e60ef7a5c1bb71bff067dbc\""
     },
     "github.com/esa-tu-darmstadt/scaie-v-2.0": {
       "repo": "github.com/esa-tu-darmstadt/SCAIE-V-2.0",
@@ -493,8 +493,8 @@
       "default_branch": "scalv2",
       "pushed_at": "2026-08-13T11:03:54Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:13Z",
-      "etag": "\"c4dfee1128aadf7e65466993df078a57eb5df2a3061dea0d17b071d04548f481\""
+      "fetched_at": "2026-11-09T17:14:23Z",
+      "etag": "\"0338c59d0f0ad993ef9472dbda6e2c1a7660332f3f5c2116e50f8a97de3ff832\""
     },
     "github.com/fraunhofer-ipms-dcc/trace-link": {
       "repo": "github.com/Fraunhofer-IPMS-DCC/Trace-Link",
@@ -512,8 +512,8 @@
       "default_branch": "main",
       "pushed_at": "2026-05-21T06:25:53Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:15Z",
-      "etag": "\"97226093cb61720b10d5ff632300dc4cc19b9b045475bb76f50a2183e271c51e\""
+      "fetched_at": "2026-11-09T17:14:25Z",
+      "etag": "\"09a6c1542e1113fe79aa98d8e0e2c1e748d881141171a07319bf505a17c64e89\""
     },
     "github.com/fzi-forschungszentrum-informatik/cosim-gen": {
       "repo": "github.com/fzi-forschungszentrum-informatik/cosim-gen",
@@ -531,8 +531,8 @@
       "default_branch": "main",
       "pushed_at": "2026-10-20T15:49:45Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:48Z",
-      "etag": "\"0e3adf8dddebec108c0fe123b6ceb8f73f9d2181a8e9b1008d56dc72fbff27dd\""
+      "fetched_at": "2026-11-09T17:13:57Z",
+      "etag": "\"2112307dc436a79fd8bb238ca7b14b044ff5c94879190afcae590cc3899b7d86\""
     },
     "github.com/fzi-forschungszentrum-informatik/safety-gen": {
       "repo": "github.com/fzi-forschungszentrum-informatik/safety-gen",
@@ -550,8 +550,8 @@
       "default_branch": "main",
       "pushed_at": "2026-10-19T08:54:04Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:40Z",
-      "etag": "\"034c7126acff7ba46dfcfc884831196649ec1761fb182e756d6e6bd8fad07979\""
+      "fetched_at": "2026-11-09T17:13:48Z",
+      "etag": "\"d694cb6c9ca882fcbb6a98e9508a220979f846614a8eef9ea3ff6d5e32e34716\""
     },
     "github.com/infineon/ahb-crossbar-ip": {
       "repo": "github.com/Infineon/ahb-crossbar-ip",
@@ -569,8 +569,8 @@
       "default_branch": "master",
       "pushed_at": "2026-10-12T15:56:21Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:18Z",
-      "etag": "\"73364b008dd9d8f76008f449ae6433b03a532a32b27961009772113f41d00dad\""
+      "fetched_at": "2026-11-09T17:12:52Z",
+      "etag": "\"99e6825884b00eda390ae0f1f84c49017d1db365ee89f794f30ec025bed6d0fe\""
     },
     "github.com/infineon/dual-channel-timer-ip": {
       "repo": "github.com/Infineon/dual-channel-timer-ip",
@@ -588,8 +588,8 @@
       "default_branch": "master",
       "pushed_at": "2026-10-12T16:03:18Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:22Z",
-      "etag": "\"9a6837829a766f4bfe20ea6a3f5e5082888a38e52dfae4e67f8c341bc8be84c2\""
+      "fetched_at": "2026-11-09T17:12:57Z",
+      "etag": "\"4bc805f5af464785ba723690e04a9c83d6d75bf36282e2b3236d8520f0d84799\""
     },
     "github.com/infineon/programmable-interrupt-controller-ip": {
       "repo": "github.com/Infineon/programmable-interrupt-controller-ip",
@@ -607,8 +607,8 @@
       "default_branch": "master",
       "pushed_at": "2026-10-12T15:59:49Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:20Z",
-      "etag": "\"425507ad360a39a938dca02c1a1bff4dfbde75e086401b0a8c1828ee21832a05\""
+      "fetched_at": "2026-11-09T17:12:55Z",
+      "etag": "\"c637902263d598d6b817c451ac2fd938b5e2b2b6280a8fcf6112822b124034f3\""
     },
     "github.com/infineon/safety-security-control-unit-ip": {
       "repo": "github.com/Infineon/safety-security-control-unit-ip",
@@ -626,18 +626,18 @@
       "default_branch": "master",
       "pushed_at": "2026-10-12T17:33:28Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:30Z",
-      "etag": "\"0d491150bb5fd696f71fdb3674dcd10b10c8e546a417c93e375d42c5c27f72ed\""
+      "fetched_at": "2026-11-09T17:13:07Z",
+      "etag": "\"1478f03c60c404b8845cec4cbb1c86805fca5b0cd2f688a68eda28543f620e5e\""
     },
     "github.com/kactus2/kactus2dev": {
       "repo": "github.com/kactus2/kactus2dev",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/kactus2/kactus2dev",
-      "stars": 264,
-      "forks": 53,
+      "stars": 265,
+      "forks": 52,
       "watchers": 20,
-      "open_issues": 35,
+      "open_issues": 36,
       "commits": 4842,
       "contributors": 28,
       "language": "C++",
@@ -645,8 +645,8 @@
       "default_branch": "main",
       "pushed_at": "2026-11-02T13:41:29Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:38Z",
-      "etag": "\"73f4b7043ea8642b818a5c3b583a721f012692460e609aeea552efc7e53c10e4\""
+      "fetched_at": "2026-11-09T17:15:53Z",
+      "etag": "\"2df145783b126f74d5e1eef8e7ea9e36ad585cf4a778c0e84d614688ecb6232f\""
     },
     "github.com/mgologanu/mersennentt": {
       "repo": "github.com/mgologanu/MersenneNTT",
@@ -664,8 +664,8 @@
       "default_branch": "main",
       "pushed_at": "2026-10-04T16:16:00Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:21Z",
-      "etag": "\"834b48c27a1674c48d07a4570d94dc249078dddd8299926bd286f7b6d3edcc30\""
+      "fetched_at": "2026-11-09T17:13:27Z",
+      "etag": "\"721e62e4d4c203dc56faffe88367fc23b194a1577d20e70803c77e7a50d26f85\""
     },
     "github.com/minres/coredsl": {
       "repo": "github.com/Minres/CoreDSL",
@@ -683,8 +683,8 @@
       "default_branch": "master",
       "pushed_at": "2026-07-22T14:32:57Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:32Z",
-      "etag": "\"11326eb2678d1a57bb204aa8fe1728ae1305fe041e3763d06569dbc443f08aca\""
+      "fetched_at": "2026-11-09T17:15:46Z",
+      "etag": "\"f30301c502ecb50a4add4fa6cd4763422b385f5f48ff36ad15b028ea88168228\""
     },
     "github.com/minres/dbt-rise-riscv": {
       "repo": "github.com/Minres/DBT-RISE-RISCV",
@@ -695,15 +695,15 @@
       "forks": 21,
       "watchers": 6,
       "open_issues": 5,
-      "commits": 601,
+      "commits": 605,
       "contributors": 13,
       "language": "C++",
       "license_spdx_id": "BSD-3-Clause",
       "default_branch": "main",
-      "pushed_at": "2026-10-26T15:28:13Z",
+      "pushed_at": "2026-11-08T20:47:12Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:34Z",
-      "etag": "\"481fabb6a19439bad312619173259bfa8ec30625d4d3b90214fa2eba42fbfa73\""
+      "fetched_at": "2026-11-09T17:15:48Z",
+      "etag": "\"d239445fc23c0e2811409e3bdcfdd3bcc858b018a597729e8bbf6ff136ffd2bd\""
     },
     "github.com/minres/pysysc": {
       "repo": "github.com/Minres/PySysC",
@@ -721,8 +721,8 @@
       "default_branch": "master",
       "pushed_at": "2024-05-16T13:30:34Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:30Z",
-      "etag": "\"76ce3748ae3a2ed838cdae672ecdc66c8cd46b3092cc1a5f0e1d1df12e61a144\""
+      "fetched_at": "2026-11-09T17:15:44Z",
+      "etag": "\"289687fdf3ea0b4d1ff471f77c955ad1593924a4d02c9d01a61a40a82ee10d5f\""
     },
     "github.com/minres/systemc-components": {
       "repo": "github.com/Minres/SystemC-Components",
@@ -733,15 +733,15 @@
       "forks": 40,
       "watchers": 9,
       "open_issues": 9,
-      "commits": 2394,
+      "commits": 2395,
       "contributors": 33,
       "language": "C++",
       "license_spdx_id": "Apache-2.0",
       "default_branch": "main",
-      "pushed_at": "2026-10-29T11:15:46Z",
+      "pushed_at": "2026-11-05T09:55:44Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:28Z",
-      "etag": "\"ea08804cc77ffb5a19fcc663710b3fb3acd840c1c8eb2ac928db83247b0d5955\""
+      "fetched_at": "2026-11-09T17:15:42Z",
+      "etag": "\"5bff52ef6b4f7ec6413f647c0df838ff970103fb8d33f74c8f41686f7a9faad7\""
     },
     "github.com/mpezzin/cv32e40p": {
       "repo": "github.com/MPEZZIN/cv32e40p",
@@ -759,8 +759,8 @@
       "default_branch": "master",
       "pushed_at": "2026-05-03T17:18:10Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:56Z",
-      "etag": "\"ebae3890ab8d6860ab389f5eaf2a39deb860fc9e9695b853e44c4c48fa65ecee\""
+      "fetched_at": "2026-11-09T17:14:06Z",
+      "etag": "\"7745fdf8c114ddf0deeedf03d59f06934f6fa3c7a40a28a68c7b8c2f24fc94d8\""
     },
     "github.com/mpezzin/gpio": {
       "repo": "github.com/MPEZZIN/gpio",
@@ -778,8 +778,8 @@
       "default_branch": "master",
       "pushed_at": "2024-11-04T22:21:16Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:17Z",
-      "etag": "\"ca8756329607645de2505243d5a617d23f32ecd0f9c205a30ecfafb8773776a6\""
+      "fetched_at": "2026-11-09T17:14:27Z",
+      "etag": "\"35bf6ba532d7d45d5d781f0bf18bb0a840b4601d1111d0f3cdd598475b98a2b6\""
     },
     "github.com/mpezzin/obi_interconnect": {
       "repo": "github.com/MPEZZIN/obi_interconnect",
@@ -797,8 +797,8 @@
       "default_branch": "main",
       "pushed_at": "2025-02-02T20:05:09Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:32Z",
-      "etag": "\"fc655a1c2e8c0bed5a719d707465d71eaeff844de6ae851b5f63672c305b7a3e\""
+      "fetched_at": "2026-11-09T17:14:43Z",
+      "etag": "\"c6e0aa4491968d0fdff9bedfcabf365ec7bef3e7513a0c87dfafdbad6fb102cd\""
     },
     "github.com/mpezzin/spi_master": {
       "repo": "github.com/MPEZZIN/spi_master",
@@ -816,8 +816,8 @@
       "default_branch": "master",
       "pushed_at": "2019-10-08T12:46:26Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:21Z",
-      "etag": "\"79869abcf0773c24cfbe5927e54adc3c118e713434e78f097a376b4d5f1dc6b9\""
+      "fetched_at": "2026-11-09T17:14:32Z",
+      "etag": "\"2dfa2944d0ea2b1544260659451b9e6ef7a65c0bf83db0cb5e1ab1e9ca428015\""
     },
     "github.com/mpezzin/uart_16750": {
       "repo": "github.com/MPEZZIN/uart_16750",
@@ -835,8 +835,8 @@
       "default_branch": "master",
       "pushed_at": "2023-03-27T17:11:24Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:19Z",
-      "etag": "\"e663fb79fed830b9f0bfa9d9912301b3a194b1b8da285ddb6c871f9f65277851\""
+      "fetched_at": "2026-11-09T17:14:30Z",
+      "etag": "\"bba74f5b849c570e58d6b32f939640c19872f85276a2f05bc05bdda52edf9439\""
     },
     "github.com/neuromorphic-polito/reckon_to_riscv": {
       "repo": "github.com/neuromorphic-polito/reckon_to_RISCV",
@@ -854,8 +854,8 @@
       "default_branch": "main",
       "pushed_at": "2026-10-15T09:39:30Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:26Z",
-      "etag": "\"4e3c1c81b5fc03c8a69523c7816a251b9d137bae5df8dd3eaaa00bda4b71b6ba\""
+      "fetched_at": "2026-11-09T17:13:32Z",
+      "etag": "\"77ce713074876860bc79c49d2a9186dd315064f924eddcda50d3334b9080cf7f\""
     },
     "github.com/nxp-at-riviera/riviera_core": {
       "repo": "github.com/NXP-AT-RIVIERA/Riviera_core",
@@ -873,8 +873,8 @@
       "default_branch": "main",
       "pushed_at": "2025-06-16T08:25:13Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:11Z",
-      "etag": "\"4724c26bac46320246eb635473dd6c7501a00e36c6899e1103d5cad57a85e2b1\""
+      "fetched_at": "2026-11-09T17:14:21Z",
+      "etag": "\"0adf726084f2692424dbb8275976a6ab61048b3f03d96280326fa30367d6bd2e\""
     },
     "github.com/nxp-auto-tools/tools_adl": {
       "repo": "github.com/nxp-auto-tools/tools_adl",
@@ -892,8 +892,8 @@
       "default_branch": "main",
       "pushed_at": "2026-03-13T08:15:54Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:49Z",
-      "etag": "\"717b2be02bee7861dff521ab9f70f0021980bc78d776670de8c4cdc14c0f0f5d\""
+      "fetched_at": "2026-11-09T17:15:01Z",
+      "etag": "\"dd2701a1df4506f63a76ea81f3864f03aa36f7a44b02479851e78a8b576f9fb1\""
     },
     "github.com/offis/isolde-tccp": {
       "repo": "github.com/offis/isolde-tccp",
@@ -911,27 +911,27 @@
       "default_branch": "main",
       "pushed_at": "2026-10-01T13:28:44Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:11Z",
-      "etag": "\"7da5f21490f731e23fd371e9c418a08b0c4f26a12d580db2c37042967c80ae19\""
+      "fetched_at": "2026-11-09T17:13:15Z",
+      "etag": "\"e4a1e16d5d68c03ad53d2b6fe499aee206f2118532802a39daf1e5a2c920c0b2\""
     },
     "github.com/openhwfoundation/core-v-verif": {
       "repo": "github.com/openhwfoundation/core-v-verif",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/openhwfoundation/core-v-verif",
-      "stars": 737,
-      "forks": 332,
+      "stars": 739,
+      "forks": 333,
       "watchers": 51,
-      "open_issues": 166,
-      "commits": 4658,
+      "open_issues": 173,
+      "commits": 4664,
       "contributors": 95,
       "language": "Assembly",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "master",
-      "pushed_at": "2026-10-28T17:30:51Z",
+      "pushed_at": "2026-11-04T15:36:15Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:07Z",
-      "etag": "\"08080d58e3a59aa273b4ee2e1a22b5cd5b37f13edb95806e8572483092973a31\""
+      "fetched_at": "2026-11-09T17:14:17Z",
+      "etag": "\"3008116b24adb2f435b2b8e7c52173b7e22d5992c8226799ef5fcc84494a69ce\""
     },
     "github.com/openhwfoundation/cv-hpdcache": {
       "repo": "github.com/openhwfoundation/cv-hpdcache",
@@ -939,37 +939,37 @@
       "host": "github.com",
       "html_url": "https://github.com/openhwfoundation/cv-hpdcache",
       "stars": 124,
-      "forks": 59,
+      "forks": 62,
       "watchers": 14,
       "open_issues": 7,
-      "commits": 402,
-      "contributors": 20,
+      "commits": 404,
+      "contributors": 21,
       "language": "SystemVerilog",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "master",
-      "pushed_at": "2026-10-16T16:24:35Z",
+      "pushed_at": "2026-11-05T14:28:11Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:24Z",
-      "etag": "\"502c344cba2783a0021bf10075a827b1166a2308f38001fe79a0eff4067c93da\""
+      "fetched_at": "2026-11-09T17:14:35Z",
+      "etag": "\"77d83336d57e566020fb725498f08adbda8cb557c67841df9b5ac2a3c962cc0b\""
     },
     "github.com/openhwfoundation/cva6": {
       "repo": "github.com/openhwfoundation/cva6",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/openhwfoundation/cva6",
-      "stars": 3184,
-      "forks": 1046,
+      "stars": 3188,
+      "forks": 1052,
       "watchers": 92,
-      "open_issues": 335,
+      "open_issues": 350,
       "commits": 7577,
       "contributors": 249,
       "language": "Assembly",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "master",
-      "pushed_at": "2026-11-01T23:00:16Z",
+      "pushed_at": "2026-11-09T15:11:06Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:01Z",
-      "etag": "\"90bdc01634be3835bd2861891f59b0cafea483c72480cd41dc54c77cf3246a8e\""
+      "fetched_at": "2026-11-09T17:14:11Z",
+      "etag": "\"26f57ad237a2c5fd83f95b8456df9fca32d1ecb023a1bc7dfe9e6a1c7b6d64c8\""
     },
     "github.com/openhwfoundation/cve2": {
       "repo": "github.com/openhwfoundation/cve2",
@@ -987,27 +987,27 @@
       "default_branch": "main",
       "pushed_at": "2026-10-09T17:02:04Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:54Z",
-      "etag": "\"a40f6f9d8a315bccff6e3d09387d1597222aef4786cfac6ade9df43f0dcc36d9\""
+      "fetched_at": "2026-11-09T17:14:04Z",
+      "etag": "\"7a24048ee45de26d5e055b98bbbb74f35d88461f2b72e290b54a1f95287bc68a\""
     },
     "github.com/openhwfoundation/cvfpu": {
       "repo": "github.com/openhwfoundation/cvfpu",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/openhwfoundation/cvfpu",
-      "stars": 648,
-      "forks": 175,
+      "stars": 651,
+      "forks": 178,
       "watchers": 37,
-      "open_issues": 58,
-      "commits": 317,
+      "open_issues": 56,
+      "commits": 319,
       "contributors": 34,
       "language": "SystemVerilog",
       "license_spdx_id": "Apache-2.0",
       "default_branch": "develop",
-      "pushed_at": "2026-11-02T15:18:42Z",
+      "pushed_at": "2026-11-09T12:39:53Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:33Z",
-      "etag": "\"5319c6ffd614b90aaa4c12ebb9a23f9ad755972216c83587760f31d1c680782d\""
+      "fetched_at": "2026-11-09T17:13:11Z",
+      "etag": "\"4348946fd3d125ff70c31ffd49142ae68746809308f5a7ea6f6398f43b3b5bf6\""
     },
     "github.com/openhwfoundation/meta-cva6-yocto": {
       "repo": "github.com/openhwfoundation/meta-cva6-yocto",
@@ -1025,18 +1025,18 @@
       "default_branch": "main",
       "pushed_at": "2026-01-26T11:47:10Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:07Z",
-      "etag": "\"7b765aa33f7ef3db91171f7780ee0b257253418e30c7bdc8ec3437cddd65c55c\""
+      "fetched_at": "2026-11-09T17:15:21Z",
+      "etag": "\"e3cbea21739ae8083c3859cc2cdff5581369f2770d7a58ad13fb5a90cc4f8869\""
     },
     "github.com/pulp-platform/ara": {
       "repo": "github.com/pulp-platform/ara",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/pulp-platform/ara",
-      "stars": 561,
-      "forks": 214,
+      "stars": 562,
+      "forks": 217,
       "watchers": 19,
-      "open_issues": 183,
+      "open_issues": 193,
       "commits": 1861,
       "contributors": 26,
       "language": "C",
@@ -1044,18 +1044,18 @@
       "default_branch": "main",
       "pushed_at": "2026-10-16T18:59:41Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:24Z",
-      "etag": "\"ef72bb68636c95aa2a168576435574c9cf2101f9eeee9a709ffcbe540c0302d3\""
+      "fetched_at": "2026-11-09T17:13:00Z",
+      "etag": "\"e726dcde39f4147cd1434208fcfb8595a43304f4b43ddc3be2011882c727a3d8\""
     },
     "github.com/pulp-platform/axi": {
       "repo": "github.com/pulp-platform/axi",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/pulp-platform/axi",
-      "stars": 1745,
-      "forks": 378,
+      "stars": 1750,
+      "forks": 380,
       "watchers": 40,
-      "open_issues": 64,
+      "open_issues": 69,
       "commits": 1464,
       "contributors": 70,
       "language": "SystemVerilog",
@@ -1063,8 +1063,8 @@
       "default_branch": "master",
       "pushed_at": "2026-11-02T13:56:15Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:30Z",
-      "etag": "\"a4b9834c6a7fb88b6cbf97a5dfc11283e0969fe821a861dbafa591d6f9c07418\""
+      "fetched_at": "2026-11-09T17:14:41Z",
+      "etag": "\"eff416e570efea92d5a2818729c61a1f5b179102943f7403b4747b00d3d60be2\""
     },
     "github.com/pulp-platform/axi_llc": {
       "repo": "github.com/pulp-platform/axi_llc",
@@ -1082,8 +1082,8 @@
       "default_branch": "master",
       "pushed_at": "2026-10-22T10:13:48Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:28Z",
-      "etag": "\"d3563b0ca6e301ae0c69667828678b852e44761dab7cc5064a60a7a5f63a58f7\""
+      "fetched_at": "2026-11-09T17:14:39Z",
+      "etag": "\"8da7115f55e309c67b15879a20715d82793bd71051f706be346fddabadb78028\""
     },
     "github.com/pulp-platform/clic": {
       "repo": "github.com/pulp-platform/clic",
@@ -1099,10 +1099,10 @@
       "language": "SystemVerilog",
       "license_spdx_id": "Apache-2.0",
       "default_branch": "master",
-      "pushed_at": "2026-08-06T10:25:30Z",
+      "pushed_at": "2026-11-04T22:02:09Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:26Z",
-      "etag": "\"799ecddad49cc8fa6c0a9f51dbf2393e308d62d31a35a279676f4396d41ff322\""
+      "fetched_at": "2026-11-09T17:14:37Z",
+      "etag": "\"91c86b991a6f340e5263ae13b311cb113eab468d2f78014b2d577740906b8260\""
     },
     "github.com/pulp-platform/cv32e40p": {
       "repo": "github.com/pulp-platform/cv32e40p",
@@ -1120,15 +1120,15 @@
       "default_branch": "master",
       "pushed_at": "2026-07-16T21:43:27Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:59Z",
-      "etag": "\"b447af5aa426efa32bf8aaff2ec911d762ff909e6741867147b4775bee8dc480\""
+      "fetched_at": "2026-11-09T17:14:08Z",
+      "etag": "\"80e6200b00e80055a4aec8cd001022cecc2e3e3194582008b8319803d6bf179a\""
     },
     "github.com/pulp-platform/cva6": {
       "repo": "github.com/pulp-platform/cva6",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/pulp-platform/cva6",
-      "stars": 26,
+      "stars": 27,
       "forks": 56,
       "watchers": 1,
       "open_issues": 2,
@@ -1137,10 +1137,10 @@
       "language": "Assembly",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "pulp-v3",
-      "pushed_at": "2026-11-02T12:23:25Z",
+      "pushed_at": "2026-11-08T22:09:15Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:04Z",
-      "etag": "\"9251437bfb53bb6e4addbdfbac0771f147c41eeb16157b26feaa827e0ebdeaed\""
+      "fetched_at": "2026-11-09T17:14:14Z",
+      "etag": "\"db1f3fba19819845a3c0a8ef2ae51cc545df95c2877298b92b68593f419bdbe5\""
     },
     "github.com/pulp-platform/hci": {
       "repo": "github.com/pulp-platform/hci",
@@ -1158,8 +1158,8 @@
       "default_branch": "master",
       "pushed_at": "2026-10-14T14:44:29Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:41Z",
-      "etag": "\"fe1e1b4242fffa059e21ba9cd6499f7edf12a43030eaf9900783e5773465fb17\""
+      "fetched_at": "2026-11-09T17:14:53Z",
+      "etag": "\"9c5851b8064ba5eeec5d13e6144a0328c70f23023cd944aca08892ecc95b4847\""
     },
     "github.com/pulp-platform/opentitan": {
       "repo": "github.com/pulp-platform/opentitan",
@@ -1177,8 +1177,8 @@
       "default_branch": "master",
       "pushed_at": "2026-05-08T07:56:19Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:28Z",
-      "etag": "\"a4376230c863ad7f93923b0087a08d88b65337d1a065da6ff3ef350c0a9b21b6\""
+      "fetched_at": "2026-11-09T17:13:05Z",
+      "etag": "\"1998f18dd3e9eb0b53b94a80da3a0005556b62e46ed4c00649f241b6d48986f9\""
     },
     "github.com/pulp-platform/pulp-riscv-gnu-toolchain": {
       "repo": "github.com/pulp-platform/pulp-riscv-gnu-toolchain",
@@ -1196,8 +1196,8 @@
       "default_branch": "master",
       "pushed_at": "2025-08-19T15:42:14Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:51Z",
-      "etag": "\"da0f0bebd6fdb7a92a786974caee5b0ab4c3e3da380c9ced37b249a3f2557a13\""
+      "fetched_at": "2026-11-09T17:15:04Z",
+      "etag": "\"b89ad11b83ddc1f3ea3863c1494844711017e5b19c55468bcfcdf5d571eef372\""
     },
     "github.com/pulp-platform/pulp-transformer": {
       "repo": "github.com/pulp-platform/pulp-transformer",
@@ -1215,8 +1215,8 @@
       "default_branch": "main",
       "pushed_at": "2024-09-02T12:06:07Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:34Z",
-      "etag": "\"e5262467eb10e2dfbe637ed1e1c984bafaa88b578bd15d8d4b6a93f4c3a266cc\""
+      "fetched_at": "2026-11-09T17:13:40Z",
+      "etag": "\"a6939596ae25cd559fcfebdf2f24156f0cf31f0917742010de0ca30370f97b53\""
     },
     "github.com/pulp-platform/pulp_cluster": {
       "repo": "github.com/pulp-platform/pulp_cluster",
@@ -1224,7 +1224,7 @@
       "host": "github.com",
       "html_url": "https://github.com/pulp-platform/pulp_cluster",
       "stars": 123,
-      "forks": 36,
+      "forks": 37,
       "watchers": 9,
       "open_issues": 10,
       "commits": 557,
@@ -1234,8 +1234,8 @@
       "default_branch": "master",
       "pushed_at": "2026-10-27T14:01:40Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:13Z",
-      "etag": "\"4812e99e879b6ba46aff39457d0f51968aee120eceea316749246e461b3e7ce8\""
+      "fetched_at": "2026-11-09T17:13:18Z",
+      "etag": "\"360e65b9b086365a1c5f990da3143f96c9e2b6fac16d61fef14e4d3508fcf6cc\""
     },
     "github.com/pulp-platform/redmule": {
       "repo": "github.com/pulp-platform/redmule",
@@ -1245,16 +1245,16 @@
       "stars": 126,
       "forks": 29,
       "watchers": 4,
-      "open_issues": 5,
-      "commits": 309,
+      "open_issues": 8,
+      "commits": 310,
       "contributors": 15,
       "language": "SystemVerilog",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "devel",
-      "pushed_at": "2026-10-22T09:07:12Z",
+      "pushed_at": "2026-11-09T16:31:21Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:43Z",
-      "etag": "\"8ffee58689e3bca2fbed2caf1bdac4c5b75f2a0b406d785a28f4096c4a928f9e\""
+      "fetched_at": "2026-11-09T17:14:55Z",
+      "etag": "\"93eb6fe477c3d73c188d81ec8e67735c14fb68c66fbcef0082f10c32d425ad25\""
     },
     "github.com/pulp-platform/udma_core": {
       "repo": "github.com/pulp-platform/udma_core",
@@ -1272,65 +1272,65 @@
       "default_branch": "master",
       "pushed_at": "2023-05-10T15:06:27Z",
       "archived": true,
-      "fetched_at": "2026-11-02T16:53:39Z",
-      "etag": "\"8d30ccc810b41b4c94d741eb6c37847ff7a42d93f942548904d09f7eefb5802e\""
+      "fetched_at": "2026-11-09T17:14:51Z",
+      "etag": "\"93c25c4f000204671c3b931a3b56ae904e191a954e28e0a0bb9f2be837b87282\""
     },
     "github.com/renode/renode": {
       "repo": "github.com/renode/renode",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/renode/renode",
-      "stars": 3096,
-      "forks": 556,
+      "stars": 3117,
+      "forks": 563,
       "watchers": 73,
-      "open_issues": 487,
-      "commits": 6848,
+      "open_issues": 496,
+      "commits": 6944,
       "contributors": 140,
       "language": "RobotFramework",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "master",
-      "pushed_at": "2026-11-02T15:42:38Z",
+      "pushed_at": "2026-11-09T16:57:11Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:47Z",
-      "etag": "\"182fae98e2e2e179cff7f9ef31392b5e2bf35ec43aeeea664df325f8202d2f0d\""
+      "fetched_at": "2026-11-09T17:14:59Z",
+      "etag": "\"a5eadf315f0124957d70ddfbe9d2b1b5b6adcb75cd72a2025659f4342cabb268\""
     },
     "github.com/riscv-software-src/riscv-isa-sim": {
       "repo": "github.com/riscv-software-src/riscv-isa-sim",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/riscv-software-src/riscv-isa-sim",
-      "stars": 3267,
-      "forks": 1137,
-      "watchers": 135,
-      "open_issues": 404,
-      "commits": 4406,
-      "contributors": 241,
+      "stars": 3278,
+      "forks": 1138,
+      "watchers": 134,
+      "open_issues": 428,
+      "commits": 4429,
+      "contributors": 243,
       "language": "C++",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "master",
-      "pushed_at": "2026-11-02T04:33:17Z",
+      "pushed_at": "2026-11-07T01:55:40Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:44Z",
-      "etag": "\"868cdf2a09e6959d634483dc5b13bc9bf8fb508700204729e0ceaccc20a18b74\""
+      "fetched_at": "2026-11-09T17:16:00Z",
+      "etag": "\"b9733e6925669a693539183adea0bb61f8c7970c46c8a666f42123f467475df8\""
     },
     "github.com/rtic-rs/rtic": {
       "repo": "github.com/rtic-rs/rtic",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/rtic-rs/rtic",
-      "stars": 2429,
+      "stars": 2433,
       "forks": 267,
       "watchers": 33,
-      "open_issues": 59,
-      "commits": 2092,
+      "open_issues": 60,
+      "commits": 2100,
       "contributors": 116,
       "language": "Rust",
       "license_spdx_id": "Apache-2.0",
       "default_branch": "master",
-      "pushed_at": "2026-11-02T16:23:37Z",
+      "pushed_at": "2026-11-09T16:22:50Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:17Z",
-      "etag": "\"75cf000c5fc009bce697c0862a508659df4ee4a14ea1bed8cbafc238a8269852\""
+      "fetched_at": "2026-11-09T17:15:31Z",
+      "etag": "\"7572ec74cc93c8e572f548b04f6517ed8ee8b1dd8a6c4df40d9b1557195913a6\""
     },
     "github.com/semify-eda/tristan": {
       "repo": "github.com/semify-eda/tristan",
@@ -1348,8 +1348,8 @@
       "default_branch": "main",
       "pushed_at": "2026-07-06T13:25:59Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:09Z",
-      "etag": "\"273e08e11bac33d3801cfb9a14dbc6cfbed48305741d4b7f234fccacd3807cd0\""
+      "fetched_at": "2026-11-09T17:14:19Z",
+      "etag": "\"d14b1a4c172201bcf2af547ec02c0dbc23aee5ac336e290c8795ae673ee88be7\""
     },
     "github.com/silvacof/ppm-dse": {
       "repo": "github.com/SilvacoF/PPM-DSE",
@@ -1367,8 +1367,8 @@
       "default_branch": "main",
       "pushed_at": "2026-09-30T10:35:41Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:46Z",
-      "etag": "\"ae426be21cd4f562fc704ab37015e2740f6ba67e1f74e6ac411a5b5c75b585c0\""
+      "fetched_at": "2026-11-09T17:13:54Z",
+      "etag": "\"b821d31149017bf9b7d514ad5ca681df26e611e0a1e9505314e384bafb90e793\""
     },
     "github.com/sirazvan/twister_fft": {
       "repo": "github.com/sirazvan/twister_FFT",
@@ -1386,8 +1386,8 @@
       "default_branch": "isolde",
       "pushed_at": "2026-10-01T10:50:09Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:28Z",
-      "etag": "\"92d7fb01e8d49a73eebc3379a33fa81582cd3452957423ee51f686f6673b78ac\""
+      "fetched_at": "2026-11-09T17:13:34Z",
+      "etag": "\"39cba7bd6775847fda80487bc49b8ae52eb08e53b1e6d376b98f635ea92e9226\""
     },
     "github.com/soc-hub-fi/keelhaul": {
       "repo": "github.com/soc-hub-fi/keelhaul",
@@ -1405,8 +1405,8 @@
       "default_branch": "main",
       "pushed_at": "2024-09-02T13:09:33Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:15Z",
-      "etag": "\"d03da60e0c204f8505ca3ba51f2533514aa8e11167569268235cacd962a5caa5\""
+      "fetched_at": "2026-11-09T17:15:29Z",
+      "etag": "\"c02d2a953c2de942a90d43c17a618152907a7e7a91fa13dd473e1a0d453582cb\""
     },
     "github.com/soc-hub-fi/spede": {
       "repo": "github.com/soc-hub-fi/spede",
@@ -1424,8 +1424,8 @@
       "default_branch": "main",
       "pushed_at": "2026-06-08T16:52:31Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:45Z",
-      "etag": "\"d799f9608a7c7719fd83821797b3a3a311b3c51935020ed93b8de95615a294cf\""
+      "fetched_at": "2026-11-09T17:14:57Z",
+      "etag": "\"3f7a7322d773646bb00d5da7a4c6b376ecf9466c32d7d2c58988cc20ff6bc5c0\""
     },
     "github.com/synthara/core-v-verif-v2": {
       "repo": "github.com/synthara/core-v-verif-v2",
@@ -1443,8 +1443,8 @@
       "default_branch": "master",
       "pushed_at": "2026-03-06T15:53:11Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:54Z",
-      "etag": "\"0e8e5ba2ac5986980035c1d20b6dd46062d527d0b5a337f274b4594a4ba1ad05\""
+      "fetched_at": "2026-11-09T17:16:11Z",
+      "etag": "\"e6b30d8a5933d0d296812bdcd0c9017af257bbb0308f3f0934e7fce1f1544f85\""
     },
     "github.com/thalesgroup/cva6-eclipse-demo": {
       "repo": "github.com/ThalesGroup/cva6-eclipse-demo",
@@ -1462,8 +1462,8 @@
       "default_branch": "main",
       "pushed_at": "2023-12-06T09:50:17Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:09Z",
-      "etag": "\"a092f1bf55f8823aed5a2957417edb031be301ec6e0854da0abe1eb265f0df4d\""
+      "fetched_at": "2026-11-09T17:15:23Z",
+      "etag": "\"4614af905cd167f1657c7f86016112a53b8d44606d42e717077559d1c33bed26\""
     },
     "github.com/tianhailiu/tristan-cloud-connector": {
       "repo": "github.com/tianhailiu/tristan-cloud-connector",
@@ -1481,8 +1481,8 @@
       "default_branch": "main",
       "pushed_at": "2026-06-11T14:47:46Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:11Z",
-      "etag": "\"9416c8f58382df5451d664bfdece44981e889270fa734990bef4a4f7589ae906\""
+      "fetched_at": "2026-11-09T17:15:25Z",
+      "etag": "\"ba49f5383825c8cb0905635d5c5c60d4061ec1e4c3efe966d564de3e4740a257\""
     },
     "github.com/tianhailiu/tristan-device-client": {
       "repo": "github.com/tianhailiu/tristan-device-client",
@@ -1500,8 +1500,8 @@
       "default_branch": "main",
       "pushed_at": "2024-10-10T08:16:58Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:23Z",
-      "etag": "\"0805f3a04054888be142741a3463d80c4c1cb07ce33bf1fb3cc2746dc13bf314\""
+      "fetched_at": "2026-11-09T17:15:38Z",
+      "etag": "\"3b0ec11a112f47575a9b594cc15fc5434995c6ef348460740cdd5fed6a333538\""
     },
     "github.com/tum-ei-eda/etiss": {
       "repo": "github.com/tum-ei-eda/etiss",
@@ -1511,16 +1511,16 @@
       "stars": 43,
       "forks": 44,
       "watchers": 8,
-      "open_issues": 29,
-      "commits": 877,
+      "open_issues": 28,
+      "commits": 879,
       "contributors": 30,
       "language": "C++",
       "license_spdx_id": "NOASSERTION",
       "default_branch": "master",
-      "pushed_at": "2026-10-29T12:14:38Z",
+      "pushed_at": "2026-11-05T14:53:09Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:25Z",
-      "etag": "\"6cb733cf721e859d3db005f9830fa154da213f019af1a99b7725ad72705c1b77\""
+      "fetched_at": "2026-11-09T17:15:40Z",
+      "etag": "\"62ad2c357dd5b93bfb13cc26b377230b49b9c0e860d398d0cc6ca12ecb327a7c\""
     },
     "github.com/tum-ei-eda/muriscv-nn": {
       "repo": "github.com/tum-ei-eda/muriscv-nn",
@@ -1530,16 +1530,16 @@
       "stars": 107,
       "forks": 17,
       "watchers": 6,
-      "open_issues": 47,
+      "open_issues": 48,
       "commits": 698,
       "contributors": 7,
       "language": "C++",
       "license_spdx_id": "Apache-2.0",
       "default_branch": "master",
-      "pushed_at": "2026-11-02T12:12:59Z",
+      "pushed_at": "2026-11-07T13:43:52Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:51Z",
-      "etag": "\"6ec960631989f2cfe439813445f601f12d9ddedb8592e0c16f6008b90e6b5082\""
+      "fetched_at": "2026-11-09T17:14:00Z",
+      "etag": "\"f24db9a3ea96ceeeae66d8aa00d2a158b519ede3c983afba3150a4ac82a0df0f\""
     },
     "github.com/wutevaaa/crypto-library-for-embedded-or-custom-devices": {
       "repo": "github.com/Wutevaaa/Crypto-library-for-embedded-or-custom-devices",
@@ -1557,15 +1557,15 @@
       "default_branch": "main",
       "pushed_at": "2026-10-09T06:39:36Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:23Z",
-      "etag": "\"600b2949abf7c52fa2a9dfd72203b1f5666c65bace61b2148bdfc2ac900891c1\""
+      "fetched_at": "2026-11-09T17:13:29Z",
+      "etag": "\"d723898f6a36a290353a3b2bf7bd201cef967082bc4493e7ef8ec65aeeb4a252\""
     },
     "github.com/yongatek/efpga": {
       "repo": "github.com/yongatek/eFPGA",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/yongatek/eFPGA",
-      "stars": 13,
+      "stars": 14,
       "forks": 5,
       "watchers": 2,
       "open_issues": 0,
@@ -1576,46 +1576,46 @@
       "default_branch": "main",
       "pushed_at": "2026-06-10T06:57:31Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:53:34Z",
-      "etag": "\"2f3d844a0e53abd7326eabe803911786e6c2d577acbd6bfa98f873cf6d06b38b\""
+      "fetched_at": "2026-11-09T17:14:46Z",
+      "etag": "\"be2372f1553f7a4f0cdb6fe9f37a8eaf101720f1da86124983af30f1b60696f7\""
     },
     "github.com/yosyshq/yosys": {
       "repo": "github.com/YosysHQ/yosys",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/YosysHQ/yosys",
-      "stars": 4858,
-      "forks": 1196,
+      "stars": 4876,
+      "forks": 1199,
       "watchers": 124,
-      "open_issues": 596,
-      "commits": 18403,
-      "contributors": 373,
+      "open_issues": 590,
+      "commits": 18465,
+      "contributors": 375,
       "language": "C++",
       "license_spdx_id": "ISC",
       "default_branch": "main",
-      "pushed_at": "2026-11-02T16:53:07Z",
+      "pushed_at": "2026-11-09T17:08:03Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:36Z",
-      "etag": "\"a0e4243b760f2175141322ac0f0fcc7ec7642fa46a44e0fefefe2b4f246d076a\""
+      "fetched_at": "2026-11-09T17:15:51Z",
+      "etag": "\"338147da333027fb0686581431b6d77df1ca1d78353f301b4d6bb6e96d05fe2b\""
     },
     "github.com/zephyrproject-rtos/zephyr": {
       "repo": "github.com/zephyrproject-rtos/zephyr",
       "provider": "github",
       "host": "github.com",
       "html_url": "https://github.com/zephyrproject-rtos/zephyr",
-      "stars": 16983,
-      "forks": 10333,
-      "watchers": 408,
-      "open_issues": 4729,
-      "commits": 157561,
-      "contributors": 4766,
+      "stars": 17040,
+      "forks": 10386,
+      "watchers": 407,
+      "open_issues": 4899,
+      "commits": 158511,
+      "contributors": 4804,
       "language": "C",
       "license_spdx_id": "Apache-2.0",
       "default_branch": "main",
-      "pushed_at": "2026-11-02T16:49:09Z",
+      "pushed_at": "2026-11-09T17:00:11Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:54:04Z",
-      "etag": "\"60fde2e870455264e390cc11e0319023d1c49f6e38fdfc28c6084c95f6d32505\""
+      "fetched_at": "2026-11-09T17:15:17Z",
+      "etag": "\"680a6be58611f97ea7328134fa3898e9e0479340a20fdf216d27c2995767df41\""
     },
     "gitlab.com/catalin.ciobanu/polymem_system_verilog": {
       "repo": "gitlab.com/catalin.ciobanu/PolyMem_System_Verilog",
@@ -1633,7 +1633,7 @@
       "default_branch": "master",
       "pushed_at": "2026-10-20T11:37:45.742Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:07Z",
+      "fetched_at": "2026-11-09T17:13:11Z",
       "etag": "W/\"018e62565f5ec3f3190185e75665ae39\""
     },
     "gitlab.com/selene-riscv-platform/davos": {
@@ -1652,7 +1652,7 @@
       "default_branch": "master",
       "pushed_at": "2026-10-05T15:15:30.448Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:52:46Z",
+      "fetched_at": "2026-11-09T17:13:55Z",
       "etag": "W/\"7242b9454130f5d27a16a09034f684c5\""
     },
     "gitlab.com/selene-riscv-platform/euros2pronoc": {
@@ -1671,7 +1671,7 @@
       "default_branch": "main",
       "pushed_at": "2026-09-18T23:00:51.836Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:15Z",
+      "fetched_at": "2026-11-09T17:12:50Z",
       "etag": "W/\"6378d5f41b48cb9ea5e8bf15e95dbabf\""
     },
     "gitlab.com/selene-riscv-platform/selene-hardware": {
@@ -1690,7 +1690,7 @@
       "default_branch": "master",
       "pushed_at": "2026-10-16T08:50:38.325Z",
       "archived": false,
-      "fetched_at": "2026-11-02T16:51:16Z",
+      "fetched_at": "2026-11-09T17:12:50Z",
       "etag": "W/\"8f162e4d6a3b90b76e5ca312f4d03a9b\""
     }
   },
